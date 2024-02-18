@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/%7Bsandbox%7D/static/js/main.6587719e.js",
-    "index.html": "/%7Bsandbox%7D/index.html",
-    "main.6587719e.js.map": "/%7Bsandbox%7D/static/js/main.6587719e.js.map"
+    "main.js": "/sandbox/static/js/main.6587719e.js",
+    "index.html": "/sandbox/index.html",
+    "main.6587719e.js.map": "/sandbox/static/js/main.6587719e.js.map"
   },
   "entrypoints": [
     "static/js/main.6587719e.js"
