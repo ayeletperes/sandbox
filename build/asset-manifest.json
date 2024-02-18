@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bsandbox%7D/static/css/main.f18c4f9a.css",
+    "main.js": "/%7Bsandbox%7D/static/js/main.63d3bca1.js",
+    "index.html": "/%7Bsandbox%7D/index.html",
+    "main.f18c4f9a.css.map": "/%7Bsandbox%7D/static/css/main.f18c4f9a.css.map",
+    "main.63d3bca1.js.map": "/%7Bsandbox%7D/static/js/main.63d3bca1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f18c4f9a.css",
+    "static/js/main.63d3bca1.js"
+  ]
+}
